@@ -1,7 +1,7 @@
 # Dokumentasi Tugas Pertemuan 3: CompStore (Katalog Komputer & Checkout)
 
-**Nama Mahasiswa:** [NAMA_LENGKAP_MAHASISWA]  
-**NIM:** [NIM_MAHASISWA]  
+**Nama Mahasiswa:** Wisnu Widya Pradana  
+**NIM:** 411231088  
 **Mata Kuliah:** Pemrograman Mobile Lanjut  
 **Pertemuan:** 3 (Interaction, Navigation & State Management)  
 

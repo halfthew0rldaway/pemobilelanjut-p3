@@ -1,4 +1,4 @@
-$zipName = "Nama_NIM_TugasPertemuan3.zip"
+$zipName = "WisnuWidyaPradana_411231088_TugasPertemuan3.zip"
 if (Test-Path $zipName) {
     Remove-Item $zipName -Force
 }
