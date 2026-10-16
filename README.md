@@ -145,4 +145,3 @@ CompStore/
 ├── README.md                # Panduan proyek & tampilan GitHub
 └── REQ.md                   # Dokumen spesifikasi tugas
 ```
-"# pemobilelanjut-p3" 
